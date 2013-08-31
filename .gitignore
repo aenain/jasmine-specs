@@ -16,3 +16,6 @@
 
 # Ignore jasmine's cache.
 /.jhw-cache/*
+
+# Ignore database configuration.
+/config/database.yml
